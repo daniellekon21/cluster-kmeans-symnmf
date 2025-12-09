@@ -1,4 +1,4 @@
-# Cluster-Kmeans-Symnmf
+# cluster-kmeans-symnmf
 Code to compare the performance of two clustering methods — K-Means and SymNMF — using silhouette scores as the evaluation metric.
 
 ## Implementation Details
